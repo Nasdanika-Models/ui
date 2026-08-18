@@ -1,6 +1,6 @@
 <mxfile compressed="false" host="Electron">
   <diagram id="bec46643-9a92-4f62-8d64-789cfac44953" name="ui">
-    <mxGraphModel dx="3011" dy="2019" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="3966" dy="2603" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -384,7 +384,7 @@
         </mxCell>
         <object label="DateKind" link="references/eClassifiers/DateKind/index.html" id="fb37135d-21a5-4674-894b-5235c4b16aad">
           <mxCell parent="1" vertex="1">
-            <mxGeometry height="30" width="120" x="1400" y="800" as="geometry" />
+            <mxGeometry height="30" width="120" x="930" y="-200" as="geometry" />
           </mxCell>
         </object>
         <mxCell id="1c5e9db5-8e72-4532-b61c-c762c9b4cacf" edge="1" parent="1" source="fb37135d-21a5-4674-894b-5235c4b16aad" target="fb37135d-21a5-4674-894b-5235c4b16aad">
